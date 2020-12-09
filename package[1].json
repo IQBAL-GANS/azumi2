@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url" : "git + https: //github.com/IQBAL-GANS/Azumi2"
+    "url" : "git + https: //github.com/IQBAL-GANS/azumi2"
   },
   "keywords": [
     "k"
@@ -45,7 +45,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IQBAL-GANS/Azumi2/issues"
+    "url": "https://github.com/IQBAL-GANS/azumi2/issues"
   },
-  "homepage": "https://github.com/IQBAL-GANS/Azumi#readme"
+  "homepage": "https://github.com/IQBAL-GANS/azumi2#readme"
 }
