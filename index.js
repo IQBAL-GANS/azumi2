@@ -1121,7 +1121,7 @@ else if (text == `$block`){
 conn.sendMessage(id, `*[!]* Perintah ini hanya khusus owner bot Azumi` ,MessageType.text);             
 else if (text == `$grupofficialbot`){
 conn.sendMessage(id, `*GRUP* : *_(TWB)🤖_*\n*LINK GRUP* : _https://chat.whatsapp.com/IujvcBtCiaoChP0qCQsLhc_\n\n_Bagi Yang Mau Join Pencet Link Diatas Kita Berbagi Ilmu seputar termux_\n*#BotTermux*\n*#Sharingilmu*\n*#Whatsappbot*\n*#AzumiOfficial*\n*#IzinAdmin*` ,MessageType.text);
-})
+}) }
 	
 if (text.includes("$quotes2")){
 const teks = text.replace(/$quotes2 /, "")
