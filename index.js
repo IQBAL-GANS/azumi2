@@ -188,7 +188,7 @@ const teks = text.replace(/$twitter /, "")
 axios.get(`https://mhankbarbar.herokuapp.com/api/twit?url=${teks}&apiKey=${api}`).then((res) => {
 let hasil = `➸ *Title* : ${res.data.title}\n➸ *FileSize* : ${res.data.filesize}\n➸ *Quote* : ${res.data.quote}\n➸ *LinkDownload* : ${res.data.result}`
 conn.sendMessage(id, hasil ,MessageType.text);                                                       })
-})
+
 }
 
 
